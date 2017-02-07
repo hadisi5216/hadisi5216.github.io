@@ -1,7 +1,9 @@
 ---
 title: GitHub Pages + Hexo搭建个人博客
 date: 2017-02-07 14:42:59
-categories: 博客
+categories:
+- 技术
+
 tags:
 - 博客
 - 技术
