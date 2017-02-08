@@ -72,3 +72,5 @@ deploy:
   type: git
   repository: https://github.com/hadisi5216/hadisi5216.github.io.git
   branch: master
+  
+ duoshuo_shortname: hadisi5216
