@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: hadisi5216's blog
 subtitle:
-description:
-author: John Doe
-language:
+description: 在这个满天都是大牛的时代，我只能安安静静的做个小白。
+author: hadisi5216
+language: zh-Hans
 timezone:
 
 # URL
@@ -68,4 +68,6 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repository: https://github.com/hadisi5216/hadisi5216.github.io.git
+  branch: master
